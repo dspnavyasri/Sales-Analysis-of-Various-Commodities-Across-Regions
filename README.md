@@ -1,4 +1,4 @@
-# Sales Record Analysis Readme
+# Sales Record Analysis
 
 This repository contains a dataset and analysis of sales records of various commodities from different regions. The dataset comprises 5000 entries with 13 columns, including information such as region, country, item type, sales channel, order date, units sold, unit price, unit cost, total revenue, total cost, total profit, and year.
 
